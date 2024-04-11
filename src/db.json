@@ -1,0 +1,29 @@
+{
+  "persons": [
+    {
+      "id": "a3f09ef6-be22-4b8c-aa70-0b1f71a870e3",
+      "name": "Federico",
+      "number": "5585858"
+    },
+    {
+      "id": "085a7b88-9966-4139-be3a-d0048c5af35b",
+      "name": "Lucas",
+      "number": "777777"
+    },
+    {
+      "id": "7b065bf4-26ae-464d-b82f-adcb50834224",
+      "name": "Lucas",
+      "number": "777777"
+    },
+    {
+      "id": "3c917137-d4bb-4a40-8399-d5b3490edb78",
+      "name": "jajaja",
+      "number": "2222"
+    },
+    {
+      "id": "37a1ec11-08bc-4652-a1a5-6a647750aed0",
+      "name": "jajaja",
+      "number": "2222"
+    }
+  ]
+}
